@@ -1,0 +1,18 @@
+# Core
+pandas>=2.0
+numpy>=1.24
+pyarrow>=14.0          # parquet I/O for data/processed
+
+# Visualisation
+matplotlib>=3.7
+seaborn>=0.13
+
+# Time series / econometrics (notebook 03, 04)
+statsmodels>=0.14
+
+# Change-point detection & causal inference (notebook 06)
+ruptures>=1.1
+pycausalimpact>=0.1.1
+
+# Notebooks
+jupyter>=1.0

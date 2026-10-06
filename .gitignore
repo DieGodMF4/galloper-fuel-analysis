@@ -1,0 +1,17 @@
+# Data artefacts (keep only raw under version control)
+data/interim/
+data/processed/
+reports/figures/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
